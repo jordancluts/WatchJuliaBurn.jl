@@ -1,6 +1,6 @@
 module WatchJuliaBurn
 
-export c╯°□°ↄ╯, 🗺, 📖, 🛑
+export c╯°□°ↄ╯, 🗺, 📖, 🛑, rand
 export ✅, 👍, 👌, 👎
 export 😻, ⬇️😻, ➡️😻, 😹, ⬇️😹, ➡️😹, 🐈, ⬇️🐈, ➡️🐈
 export 🥧, 🍰, ㅠ
@@ -14,6 +14,7 @@ const 👍 = true
 const 👌 = true
 const 👎 = false
 const 🛑 = exit
+const 🎲 = rand
 
 ## Arrays
 const 😻 = cat
