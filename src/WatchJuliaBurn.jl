@@ -1,6 +1,6 @@
 module WatchJuliaBurn
 
-export c╯°□°ↄ╯, 🗺, 📖, 🛑, rand
+export c╯°□°ↄ╯, 🗺, 📖, 🛑, 🎲
 export ✅, 👍, 👌, 👎
 export 😻, ⬇️😻, ➡️😻, 😹, ⬇️😹, ➡️😹, 🐈, ⬇️🐈, ➡️🐈
 export 🥧, 🍰, ㅠ
